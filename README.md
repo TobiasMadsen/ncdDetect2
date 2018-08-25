@@ -1,6 +1,6 @@
 # ncdDetect2
 
-ncdDetect2 contains functions for calling driver regions based on somatic mutation data$
+ncdDetect2 contains functions for calling driver regions based on somatic mutation data. For documentation see http://moma.ki.au.dk/ncddetect/
 
 # Install
 
